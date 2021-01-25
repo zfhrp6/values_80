@@ -1,3 +1,13 @@
+# about this
+
+select 10 valuable items from 80 items, then find out your values. (WIP)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
